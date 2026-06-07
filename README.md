@@ -20,3 +20,8 @@
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
 ![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+
+Скріншоти
+<img width="1904" height="846" alt="image" src="https://github.com/user-attachments/assets/3b5641d9-51e1-41a5-96d2-dd09204de71d" />
+<img width="1407" height="920" alt="im1age" src="https://github.com/user-attachments/assets/4023cd7e-c2be-4e5d-8d55-47c7a706a45c" />
+<img width="722" height="552" alt="im2age" src="https://github.com/user-attachments/assets/b58576be-6df0-48ae-a9ff-bbfc1c5b8b20" />
